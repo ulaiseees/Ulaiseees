@@ -5,6 +5,6 @@
 
 - 👨‍💻 All of my projects are available at --> ***Coming Soon!***
 
-- 📫 How to reach me --> **ulaisess@gmail.com**
+- 📫 How to reach me --> **ulaisess@gmail.com** // **ulaiseees** on Discord!
 
 - 🎮 About Me --> **I like to Play Programming, Study Anime, Watch Cofee, and Drink Video Games!**
