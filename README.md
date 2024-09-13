@@ -32,6 +32,3 @@ Edito Videos en mis tiempos libres, de mis aventuras jugando jueguitos con amigo
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white">
     <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white">
 </p>
-
----
-<p align="center"><sub>This README file is generated <b>every 12 hours</b>!</br>Last refresh: viernes, 13 de septiembre, 12:58 p. m. ART<br />Kudos to <a href="https://github.com/thmsgbrt">@thmsgbrt</a> for creating <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">this amazing tutorial</a> on how to do this.</sub></p>
