@@ -9,8 +9,10 @@ Hi! I'm Ulaises 👋
 <p>Born in 🇦🇷, putting in the work to bring my ideas to life.</p>
 
 <p>Desarrollando mis habilidades como FrontEnd Developer para crear Soluciones.<br/>
-Edito Videos en mis tiempos libres, de mis aventuras jugando jueguitos con amigos <a href="https://www.youtube.com/@zeteeex"> <img align="center" src="https://img.shields.io/badge/ZeTeeeX-%23FF0000?style=flat&logo=Youtube&color=%23FF0000&link=https%3A%2F%2Fwww.youtube.com%2F%40zeteeex"></a><br/>
-¿Queres trabajar conmigo? Contactame! <a href="mailto:ulaisess@gmail.com"> <img align="center" src="https://img.shields.io/badge/Contact%20Me!-%23a341ff?style=flat&logo=Mail&color=%23a341ff&link=mailto%3Aulaisess%40gmail.com"></a>
+Edito Videos en mis tiempos libres, de mis aventuras jugando jueguitos con amigos 
+<a href="https://www.youtube.com/@zeteeex"> <img align="center" src="https://img.shields.io/badge/ZeTeeeX-%23FF0000?style=flat&logo=Youtube&color=%23FF0000&link=https%3A%2F%2Fwww.youtube.com%2F%40zeteeex"></a><br/>
+¿Queres trabajar conmigo? Contactame! 
+<a href="mailto:ulaisess@gmail.com"> <img align="center" src="https://img.shields.io/badge/Contact%20Me!-%23a341ff?style=flat&logo=Mail&color=%23a341ff&link=mailto%3Aulaisess%40gmail.com"></a>
 </p>
 
 <h2>Tecnologías y Programas que Manejo!</h2>
