@@ -2,7 +2,7 @@
 Hi! I'm Ulaises 👋 
 <span>
 <a href="https://ulaiseees.github.io/">
-<img align="right" src="https://img.shields.io/badge/ulaises.dev-8400ff?style=flat&logoSize=auto&color=8400ff&link=https%3A%2F%2Fulaiseees.github.io%2F"> </a>
+<img align="right" src="https://img.shields.io/badge/ulaiseees.web-8400ff?style=flat&logoSize=auto&color=8400ff&link=https%3A%2F%2Fulaiseees.github.io%2F"> </a>
 </span>
 </h1>
 
